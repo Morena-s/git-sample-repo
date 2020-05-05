@@ -1,0 +1,13 @@
+Git commands
+------------
+
+
+git status
+
+git init
+
+Git add
+
+Git commit -m "message "
+
+
