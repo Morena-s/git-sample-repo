@@ -1,0 +1,13 @@
+Git commands
+------------
+
+-------------------------
+git status -> gets the status of my local repository
+
+git init
+
+Git add
+
+Git commit -m "message "
+
+
